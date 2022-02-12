@@ -1,4 +1,4 @@
-# Sudoku Solver by Atharva Nangare
+# Sudoku Solver by Ruthvik Pawar
 
 import tkinter as tk
 
